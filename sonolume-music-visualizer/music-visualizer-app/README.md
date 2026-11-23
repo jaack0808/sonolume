@@ -1,4 +1,4 @@
-# Sonolume — Browser Music Visualizer
+# Sonolume — Browser Music Visualizer(prototype 2)
 
 A browser-based music visualizer: drop in a song and watch visuals react to **bass**, **mids**, and **treble**, with simple **beat** detection driving effects. Customize what controls what, then export the canvas as a **WebM** video.
 
